@@ -1,0 +1,9 @@
+Untuk mencari berapa jumlah tebakan yang digunakan oleh Binary Search
+yaitu dengan menggunakan Logaritma basis 2 (log2(n))
+misalkan :
+        // apabila terdapat elemen array berjumlah 100 maka memiliki maksimal 7 kali tebakan
+           itu dikarenakan log2(100) = 6.643856189774725 sehingga diperoleh angka 7
+           dapat juga diperoleh dari log2(128) = 7 karena yang mendekati dari 100 adalah 128
+       //  apabila terdapat elemen array berjumlah 1000 maka memiliki maksimal 10 kali tebakan
+           itu dikarenakan log2(1000) = 9.965784284662087 sehingga diperoleh angka 10
+           dapat juga diperoleh dari log2(1024) = 10 karena yang mendekati dari 1000 adalah 128
